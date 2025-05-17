@@ -43,6 +43,9 @@ Users can add Additive White Gaussian Noise (AWGN) to the signal at different Si
 ![GUI Example](Miscellaneous/Screenshot1.png)
 ![GUI Example](Miscellaneous/Screenshot2.png)
 
+## License
+
+This project is for educational purposes. Do not plagiarize.
 ## Requirements  
 
 To run the project, ensure you have the following:  
